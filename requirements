@@ -1,14 +1,14 @@
-cython
-numpy >= 1.8
-scipy >= 0.17
-astropy >= 1.0.2
-photutils >= 0.2.2
-scikit-learn >= 0.17
-scikit-image >= 0.11
-emcee >= 2.1
-nestle
-corner >= 1.0.2
-pandas >= 0.18
-matplotlib >= 1.4.3
-psutil
-pyprind
+cython==0.29.6
+numpy==1.16.5
+scipy==1.1.0
+astropy==2.0.9
+photutils==0.4.1
+scikit-learn==0.20.3
+scikit-image==0.14.2
+emcee==2.2.1
+nestle==0.2.0
+corner==1.0.3
+pandas==0.24.2
+matplotlib==2.2.3
+psutil==5.6.1
+pyprind==2.11.2
